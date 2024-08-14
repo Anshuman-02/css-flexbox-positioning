@@ -37,10 +37,6 @@ This project demonstrates various CSS layout techniques through a responsive web
 
 - **Anshuman** - [LinkedIn](https://www.linkedin.com/in/anshuman14/) | [GitHub](https://github.com/Anshuman-02)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 Feel free to reach out for collaboration or questions via [your email](anshuman140204@gmail.com).
