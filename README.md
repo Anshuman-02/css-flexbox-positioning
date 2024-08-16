@@ -24,7 +24,7 @@ This project demonstrates various CSS layout techniques through a responsive web
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/Anshuman-02/css-flexbox-positioning-demo.git`
+1. Clone the repository: `git clone https://github.com/Anshuman-02/css-flexbox-positioning.git`
 2. Open the `index.html` file in your browser to view the demo.
 3. Explore each linked page to see the different CSS layout techniques in action.
 
